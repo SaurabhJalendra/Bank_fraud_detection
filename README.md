@@ -148,8 +148,3 @@ See `PROJECT_ANALYSIS.md` for detailed technical documentation including:
 - Model architecture details
 - Ensemble scoring methodology
 - Code walkthrough
-
-## Author
-
-Saurabh Jalendra
-BITS Pilani
